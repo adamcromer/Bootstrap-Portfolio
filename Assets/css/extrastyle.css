@@ -1,3 +1,38 @@
 body {
-    background-image:url(/Bootstrap-Portfolio/Assets/images/stardust.png)
+    background-image:url(/Bootstrap-Portfolio/Assets/images/stardust.png);
+}
+
+.bg-cream {
+    background-color:#F7F7F2;
+    color:#444349;
+}
+
+#bg-green {
+    color:#444349;
+    background-color:#abc4ab;
+    border-color:#dcd6f7;
+    border-width: 25px;
+    border-bottom:7px solid #dcd6f7;
+}
+
+#bg-purple {
+    background-color:#dcd6f7;
+    color:#444349;
+    border-top:5px solid #abc4ab;
+}
+
+#blackText {
+    color:#444349;
+}
+
+#blackText2 {
+    color:#444349;
+}
+
+.fontSerif {
+    font-family: 'Playfair Display', 'Georgia', Times, Times New Roman, serif;
+}
+
+.fontSansSerif {
+    font-family: 'Raleway', 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
