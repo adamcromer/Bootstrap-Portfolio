@@ -36,3 +36,8 @@ body {
 .fontSansSerif {
     font-family: 'Raleway', 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+#imageCenter {
+    margin: auto;    
+    display: block;
+}
