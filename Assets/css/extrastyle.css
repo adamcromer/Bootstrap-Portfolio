@@ -23,7 +23,11 @@ body {
 
 #blackText,
 #blackText2,
-#blackText3
+#blackText3,
+#blackText4,
+#blackText5,
+#blackText6,
+#blackText7,
 a {
     color:#444349;
     text-align:center;
@@ -40,4 +44,3 @@ a:hover {
 .fontSansSerif {
     font-family: 'Raleway', 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
-
